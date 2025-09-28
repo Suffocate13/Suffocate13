@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I’m Anonga Mabuda
 
-<!--
-**Suffocate13/Suffocate13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a Business Information Technology student diving deep into front-end development, research, and business analytics — with a growing love for technical writing and R programming.
 
-Here are some ideas to get you started:
+🌍 What really drives me is exploring the intersection of tech with sustainable practices — from healthcare systems to agriculture and beyond. I believe code shouldn’t just work; it should matter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ A few things about me:
+	•	I build responsive web & mobile apps
+	•	I dabble in databases & data analysis
+	•	I care about designing solutions that are functional, human-centered, and sustainable
+	•	Occasionally, I write docs that people actually want to read (yes, it’s possible 👀)
+
+🚀 Projects I’ve worked on:
+	•	Mpilo System – Electronic health record platform improving patient access in 3 African countries
+	•	SkillUpZA – Web app connecting job seekers with employers
+	•	MetaWaySA – NFT marketplace giving South African artists digital exposure
+	
+📫 Let’s connect:
+	•	anonick13@gmail.com
